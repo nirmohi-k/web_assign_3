@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
             'type': 'fill',
             'source': {
                 'type': 'geojson',
-                'data': 'https://drive.google.com/file/d/1VylkkuwEMYJKb0PfTOoKkcNkJ5orwh9x/view?usp=sharing'
+                'data': 'data/pops_bldgs_lots.geojson'
             },
             'paint': {
                 'fill-color': '#b5c7eb',
